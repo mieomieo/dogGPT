@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body {
+  /* background-color: rgb(79, 81, 99); */
+  background-color: rgb(52, 53, 65);
+  /* overflow-y: hidden; */
+  display: block;
+  height: 100%;
+}
